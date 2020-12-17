@@ -31,11 +31,8 @@
         }
     </style>
 </head>
-<body>
+<body background="3.jpg">
 <div class="container">
-    <div class="content" id="app">
-        <div></div>
-    </div>
 </div>
 <script src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/widget.js'></script>
 <script src="/js/app.js"></script>
