@@ -20,6 +20,8 @@
     "vue": "^2.5.7"
   },
   "dependencies": {
-    "botman-tinker": "^0.0.1"
+    "botman-tinker": "^0.0.1",
+    "dependency-check": "^4.1.0",
+    "preact": "^10.5.7"
   }
 }
